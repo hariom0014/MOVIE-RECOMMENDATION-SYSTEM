@@ -1,4 +1,4 @@
-# 🎬 CineScope — Bollywood Movie Recommendation System
+# 🎬Bollywood Movie Recommendation System
 
 Search 236 Bollywood films by movie, actor, singer, song or director.  
 Get full details, posters, **inline YouTube trailers**, and smart recommendations.
