@@ -4,12 +4,13 @@
   "description": "Bollywood Movie Recommendation System",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "build": "node seed.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "better-sqlite3": "^9.4.3",
     "express": "^4.18.2"
   },
-  "engines": { "node": ">=18.0.0" }
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }
